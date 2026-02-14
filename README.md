@@ -16,3 +16,8 @@ docker compose up --build
 
 
 
+## Certificate
+
+Cisco Networking Academy — *Introduction to IoT and Digital Transformation*:
+
+![Cisco Certificate](assets/cisco-certificate.png)
