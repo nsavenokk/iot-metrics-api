@@ -4,26 +4,17 @@ Small demo API for collecting IoT device metrics.
 
 Built with FastAPI, Docker, Docker Compose, Pytest and GitHub Actions (CI).
 
-## Run locally
-
+Run locally
 docker compose up --build
-API:
 
+
+API:
 http://localhost:8000
 
 Swagger UI:
-
 http://localhost:8000/docs
 
 Health endpoint:
-
-GET /health
-
-API will be available at:
-
-http://localhost:8000
-
-Health check endpoint:
 
 GET /health
 
