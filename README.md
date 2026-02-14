@@ -33,6 +33,9 @@ docker run --rm iot-metrics-api pytest -q
 ```
 
 ---
+---
+
+Developed as part of DevOps portfolio preparation. 
 
 ## Certificate
 
