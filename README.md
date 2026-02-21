@@ -37,9 +37,4 @@ docker run --rm iot-metrics-api pytest -q
 
 Developed as part of DevOps portfolio preparation. 
 
-## Certificate
-
-Cisco Networking Academy – Introduction to IoT and Digital Transformation
-
-<img src="./assets/cisco-certificate.png" width="600"/>
 
